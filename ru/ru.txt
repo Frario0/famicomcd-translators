@@ -42,7 +42,7 @@ string "Привет! Добро пожаловать на новый сайт F
 & SMBCD &
 
 strid "smbcd_tagline"
-string "Super Mario Bros. CD (SMBCD) - это ромхак для SMW, который является олицетворением идеи о том, какой могла быть игра про Марио в эпоху игр на CD-дисках."
+string "Super Mario Bros. CD (SMBCD) - ROM-хак для Super Mario World с задумкой о том, какой могла быть игра про Марио на CD-консоли."
 
 strid "learn_more_button"
 string "Посетить страницу"
@@ -407,7 +407,7 @@ strid "tutorial_ios_retroarch_step2"
 string "После чего, откройте Retroarch, и откройте игру в папке загрузок через <q>Load Content</q> меню (Для этого выберите раздел папки <q>Downloads</q>, а не <q>Open...</q>). Затем, выберите BSNES или SNES9X ядро (Если вы планируете играть через SNES9x, то убедитесь в том, что это не версии от 2005 и 2010 годов)."
 
 strid "tutorial_ios_retroarch_note3"
-string "Voilà! У вас больше нету назойливых ошибок при запуске игры!"
+string "Вуаля! У вас больше нету назойливых ошибок при запуске игры!"
 
 
 
