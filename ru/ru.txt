@@ -63,7 +63,7 @@ strid "tutorial_smbcd_button"
 string "Как установить"
 
 strid "smbcd_team_button"
-string "Состав команды SMBCD"
+string "Состав SMBCD Team"
 
 
 
@@ -414,7 +414,7 @@ string "Вуаля! У вас больше нету назойливых оши�
 & SMBCD Page &
 
 strid "smbcd_button_enemies"
-string "Enemies"
+string "Враги"
 
 strid "smbcd_button_story_info"
 string "Сюжет"
