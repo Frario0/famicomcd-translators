@@ -57,7 +57,7 @@ strid "download_smbcd_button"
 string "Descarrega o SMBCD"
 
 strid "support_sheet_smbcd_button"
-string "Página de Suporte"
+string "Página de Compatibilidade"
 
 strid "tutorial_smbcd_button"
 string "Tutoriais de Instalação"
